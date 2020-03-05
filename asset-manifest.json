@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/crio-pdp-2019-priyankark/static/css/main.1c86f277.chunk.css",
-    "main.js": "/crio-pdp-2019-priyankark/static/js/main.fb715bb6.chunk.js",
-    "main.js.map": "/crio-pdp-2019-priyankark/static/js/main.fb715bb6.chunk.js.map",
+    "main.css": "/crio-pdp-2019-priyankark/static/css/main.8ca1969d.chunk.css",
+    "main.js": "/crio-pdp-2019-priyankark/static/js/main.50e87605.chunk.js",
+    "main.js.map": "/crio-pdp-2019-priyankark/static/js/main.50e87605.chunk.js.map",
     "runtime-main.js": "/crio-pdp-2019-priyankark/static/js/runtime-main.c31e611f.js",
     "runtime-main.js.map": "/crio-pdp-2019-priyankark/static/js/runtime-main.c31e611f.js.map",
     "static/css/2.b3ff1c62.chunk.css": "/crio-pdp-2019-priyankark/static/css/2.b3ff1c62.chunk.css",
-    "static/js/2.d31237c4.chunk.js": "/crio-pdp-2019-priyankark/static/js/2.d31237c4.chunk.js",
-    "static/js/2.d31237c4.chunk.js.map": "/crio-pdp-2019-priyankark/static/js/2.d31237c4.chunk.js.map",
+    "static/js/2.bba12fa5.chunk.js": "/crio-pdp-2019-priyankark/static/js/2.bba12fa5.chunk.js",
+    "static/js/2.bba12fa5.chunk.js.map": "/crio-pdp-2019-priyankark/static/js/2.bba12fa5.chunk.js.map",
     "index.html": "/crio-pdp-2019-priyankark/index.html",
-    "precache-manifest.c925add04d1445809f81655d5ca7fcd2.js": "/crio-pdp-2019-priyankark/precache-manifest.c925add04d1445809f81655d5ca7fcd2.js",
+    "precache-manifest.49317117960d7b9b402f926fc47a0ca1.js": "/crio-pdp-2019-priyankark/precache-manifest.49317117960d7b9b402f926fc47a0ca1.js",
     "service-worker.js": "/crio-pdp-2019-priyankark/service-worker.js",
     "static/css/2.b3ff1c62.chunk.css.map": "/crio-pdp-2019-priyankark/static/css/2.b3ff1c62.chunk.css.map",
-    "static/css/main.1c86f277.chunk.css.map": "/crio-pdp-2019-priyankark/static/css/main.1c86f277.chunk.css.map",
-    "static/js/2.d31237c4.chunk.js.LICENSE.txt": "/crio-pdp-2019-priyankark/static/js/2.d31237c4.chunk.js.LICENSE.txt",
+    "static/css/main.8ca1969d.chunk.css.map": "/crio-pdp-2019-priyankark/static/css/main.8ca1969d.chunk.css.map",
+    "static/js/2.bba12fa5.chunk.js.LICENSE.txt": "/crio-pdp-2019-priyankark/static/js/2.bba12fa5.chunk.js.LICENSE.txt",
     "static/media/crio-logo-white.svg": "/crio-pdp-2019-priyankark/static/media/crio-logo-white.c9536e04.svg",
     "static/media/crio-logo.svg": "/crio-pdp-2019-priyankark/static/media/crio-logo.63be71d0.svg",
     "static/media/mil3biryani.png": "/crio-pdp-2019-priyankark/static/media/mil3biryani.847a89e4.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.c31e611f.js",
     "static/css/2.b3ff1c62.chunk.css",
-    "static/js/2.d31237c4.chunk.js",
-    "static/css/main.1c86f277.chunk.css",
-    "static/js/main.fb715bb6.chunk.js"
+    "static/js/2.bba12fa5.chunk.js",
+    "static/css/main.8ca1969d.chunk.css",
+    "static/js/main.50e87605.chunk.js"
   ]
 }

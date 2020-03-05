@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94b16a7865cd106e45baa55c5fff1fb1",
+    "revision": "b5efe0136d0ff63246f3507ad6c38151",
     "url": "/crio-pdp-2019-priyankark/index.html"
   },
   {
-    "revision": "b102ae36a93e8524b31d",
+    "revision": "ebd806682476a3cf971a",
     "url": "/crio-pdp-2019-priyankark/static/css/2.b3ff1c62.chunk.css"
   },
   {
-    "revision": "a6d061181c82e1bd4d26",
-    "url": "/crio-pdp-2019-priyankark/static/css/main.1c86f277.chunk.css"
+    "revision": "7e3c4016f94c932584e2",
+    "url": "/crio-pdp-2019-priyankark/static/css/main.8ca1969d.chunk.css"
   },
   {
-    "revision": "b102ae36a93e8524b31d",
-    "url": "/crio-pdp-2019-priyankark/static/js/2.d31237c4.chunk.js"
+    "revision": "ebd806682476a3cf971a",
+    "url": "/crio-pdp-2019-priyankark/static/js/2.bba12fa5.chunk.js"
   },
   {
     "revision": "ac9fac6c8e755a8efecd01981adb88e6",
-    "url": "/crio-pdp-2019-priyankark/static/js/2.d31237c4.chunk.js.LICENSE.txt"
+    "url": "/crio-pdp-2019-priyankark/static/js/2.bba12fa5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6d061181c82e1bd4d26",
-    "url": "/crio-pdp-2019-priyankark/static/js/main.fb715bb6.chunk.js"
+    "revision": "7e3c4016f94c932584e2",
+    "url": "/crio-pdp-2019-priyankark/static/js/main.50e87605.chunk.js"
   },
   {
     "revision": "494828d6f5cb98219ab1",
