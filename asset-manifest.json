@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/crio-pdp-2019-priyankark/static/css/main.1c86f277.chunk.css",
+    "main.js": "/crio-pdp-2019-priyankark/static/js/main.fb715bb6.chunk.js",
+    "main.js.map": "/crio-pdp-2019-priyankark/static/js/main.fb715bb6.chunk.js.map",
+    "runtime-main.js": "/crio-pdp-2019-priyankark/static/js/runtime-main.c31e611f.js",
+    "runtime-main.js.map": "/crio-pdp-2019-priyankark/static/js/runtime-main.c31e611f.js.map",
+    "static/css/2.b3ff1c62.chunk.css": "/crio-pdp-2019-priyankark/static/css/2.b3ff1c62.chunk.css",
+    "static/js/2.d31237c4.chunk.js": "/crio-pdp-2019-priyankark/static/js/2.d31237c4.chunk.js",
+    "static/js/2.d31237c4.chunk.js.map": "/crio-pdp-2019-priyankark/static/js/2.d31237c4.chunk.js.map",
+    "index.html": "/crio-pdp-2019-priyankark/index.html",
+    "precache-manifest.c925add04d1445809f81655d5ca7fcd2.js": "/crio-pdp-2019-priyankark/precache-manifest.c925add04d1445809f81655d5ca7fcd2.js",
+    "service-worker.js": "/crio-pdp-2019-priyankark/service-worker.js",
+    "static/css/2.b3ff1c62.chunk.css.map": "/crio-pdp-2019-priyankark/static/css/2.b3ff1c62.chunk.css.map",
+    "static/css/main.1c86f277.chunk.css.map": "/crio-pdp-2019-priyankark/static/css/main.1c86f277.chunk.css.map",
+    "static/js/2.d31237c4.chunk.js.LICENSE.txt": "/crio-pdp-2019-priyankark/static/js/2.d31237c4.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/crio-pdp-2019-priyankark/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/crio-pdp-2019-priyankark/static/media/crio-logo.63be71d0.svg",
+    "static/media/mil3biryani.png": "/crio-pdp-2019-priyankark/static/media/mil3biryani.847a89e4.png",
+    "static/media/mil3idly.png": "/crio-pdp-2019-priyankark/static/media/mil3idly.9d4e6a94.png",
+    "static/media/mil3south.png": "/crio-pdp-2019-priyankark/static/media/mil3south.06fc007c.png",
+    "static/media/mil51item.png": "/crio-pdp-2019-priyankark/static/media/mil51item.c948ef88.png",
+    "static/media/mil52item.png": "/crio-pdp-2019-priyankark/static/media/mil52item.793f7ce0.png",
+    "static/media/mil53item.png": "/crio-pdp-2019-priyankark/static/media/mil53item.b6de557f.png",
+    "static/media/mil5cart.png": "/crio-pdp-2019-priyankark/static/media/mil5cart.072c716e.png",
+    "static/media/mil5order.png": "/crio-pdp-2019-priyankark/static/media/mil5order.a9591e82.png",
+    "static/media/milestone1.png": "/crio-pdp-2019-priyankark/static/media/milestone1.d8cec869.png",
+    "static/media/qeatsperf.gif": "/crio-pdp-2019-priyankark/static/media/qeatsperf.53520bea.gif",
+    "static/media/qmoney.png": "/crio-pdp-2019-priyankark/static/media/qmoney.6c2b0c9f.png",
+    "static/media/start.png": "/crio-pdp-2019-priyankark/static/media/start.cf158ab4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c31e611f.js",
+    "static/css/2.b3ff1c62.chunk.css",
+    "static/js/2.d31237c4.chunk.js",
+    "static/css/main.1c86f277.chunk.css",
+    "static/js/main.fb715bb6.chunk.js"
+  ]
+}
